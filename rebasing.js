@@ -7,3 +7,4 @@ if (alpha == 1908) {
 } else {
   console.log('Who you with?');
 }
+const sorority = ['AKA', 'DST', 'ZPhiB', 'SGRho'];
